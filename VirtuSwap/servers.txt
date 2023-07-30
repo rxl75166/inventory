@@ -1,9 +1,0 @@
-https://airdrop.virtuswap.io:443
-https://airdropapi.virtuswap.io:443
-https://api-integration.virtuswap.io:443
-https://api.virtuswap.io:443
-https://app.virtuswap.io:443
-https://integration.virtuswap.io:443
-https://legacy.virtuswap.io:443
-https://lpstage.virtuswap.io:443
-https://virtuswap.io:443

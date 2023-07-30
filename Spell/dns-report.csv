@@ -1,8 +1,0 @@
-new,host,a,soa,status_code,cname,ns
-[x],ads.verizon.net,,"ns1.xicdn.net, noc.edgecast.com",NOERROR,"fp2CCB.wpc.D464B.xicdn.net, fp2ccb.wpc.xicdn.net",
-[x],ldap.verizon.net,"206.46.186.8, 151.203.0.86, 68.238.66.71, 68.238.96.71, 71.252.0.71","ns1.verizon.net, dns.verizon.com",NOERROR,,"ns2.verizon.net, ns3.verizon.net, ns4.verizon.net, ns1.verizon.net"
-[x],media.verizon.net,206.46.230.66,"ns1.verizon.net, dns.verizon.com",NOERROR,,
-[x],my.verizon.net,,"ns1.verizon.net, dns.verizon.com",NOERROR,,
-[x],shop.verizon.net,192.16.31.23,"ns1.verizon.net, dns.verizon.com",NOERROR,,
-[x],staging.verizon.net,207.115.203.62,"ns1.verizon.net, dns.verizon.com",NOERROR,,
-[x],stats.verizon.net,199.45.52.20,"ns1.verizon.net, dns.verizon.com",NOERROR,,
